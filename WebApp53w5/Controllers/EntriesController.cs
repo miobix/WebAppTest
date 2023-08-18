@@ -18,7 +18,7 @@ namespace WebApp53w5.Controllers
         public ActionResult Index()
         {
             return View(db.Entries.ToList());
-        }
+        } 
 
         // GET: Entries/ShowSearchForm
         //if the view does not exist, it must be created

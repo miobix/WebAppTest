@@ -7,4 +7,3 @@ Initial Commit
 - Understanding the MVC model
 - Sample page can keep a list of entries on a local DB
 	- Model: ID, Title, Descrption
-- Using MySQL for database, locally
